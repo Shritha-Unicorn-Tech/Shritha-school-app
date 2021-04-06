@@ -1,0 +1,63 @@
+#home{
+    text-align: center;
+     margin-top:35px;
+    background-color: #A3C1AD;
+}
+
+#home h2{
+    margin:12px ;
+    padding: 1%;
+    font-family: 'Cinzel Decorative', cursive;
+    font-size: 35px;
+}
+
+#home iframe{
+    margin-top: 56px;
+    margin-bottom:25px;
+    top: 0px;
+    bottom: 1px;
+    
+}
+
+#home p{
+    margin-top: 34px;
+    margin-bottom: 20px;
+    padding: 13px;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+
+#contact iframe{
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 25px;
+    margin-bottom: 13px;
+}
+
+.contact_1{
+    text-align: center;
+    margin-left: 34%;
+    margin-right: 30%;
+}
+
+
+actvities_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+
+actvities_head i{
+    float: right;
+}
+
+.gallery_image{
+    
+    width: 50%;
+    height: 50%;
+    border-radius: 12px;
+}
