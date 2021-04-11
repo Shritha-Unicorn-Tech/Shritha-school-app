@@ -55,9 +55,92 @@ actvities_head i{
     float: right;
 }
 
-.gallery_image{
+
+
+#MyCarousel img{
+    margin-top: 35px; 
+      height: 300px;
+    }
+
+    .container{
+        text-align: center;
+    }
+
+
     
-    width: 50%;
-    height: 50%;
-    border-radius: 12px;
+.environment_li{
+    margin-top: 13px;
+    
+}
+
+.environment_li h5{
+    border-bottom: 1px solid white ;
+    padding: 8px;
+    color: plum;
+}
+
+.environment_li img{
+    border-radius: 25px;
+    
+}
+
+
+
+.environment_li p{
+    margin-top: 10px;
+}
+ 
+
+
+.book{
+    cursor: pointer;
+    
+}
+
+.book hr{
+    margin-bottom: 10px;
+    
+}
+
+.modal-content{
+    margin-top: 100px;
+    
+}
+
+.img_modal{
+    display: inline-block;
+}
+
+.p_sub_modal{
+    color: grey;
+    font-size: 12px;
+}
+
+.p_modal{
+    margin-top: 10px;
+    color: rebeccapurple;
+    
+}
+
+.modal-body{
+    text-align: center;
+}
+.movie_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i{
+    float: right; 
+    
+}
+
+.movie_text span{
+    color: #ff7700;
+    
 }
